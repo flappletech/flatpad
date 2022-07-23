@@ -16,6 +16,7 @@ Purchase options below
 
 **Wallpaper**
 
+
 Draw your own | _No Extra Cost_
 
 Color Stripes | + 25¢
@@ -26,6 +27,7 @@ Solid Color | + $1
 
 **Screen Size**
 
+
  7 inch | _No Extra Cost_
  
  10 inch | + $1
@@ -35,6 +37,7 @@ Solid Color | + $1
   
 
 **Camera Setup**
+
 
  Normal Camera |  _No Extra Cost_
  
@@ -55,6 +58,7 @@ Purchase options below
   
 
 **Wallpaper**
+
  Draw your own | _No Extra Cost_
  
  Color Stripes | + 25¢
@@ -64,6 +68,7 @@ Purchase options below
   
 
 **Screen Size**
+
  10 inch | _No Extra Cost_
  
  14 inch | + $3
@@ -73,6 +78,7 @@ Purchase options below
   
 
 **Camera Setup**
+
  Pro Cameras | _No Extra Cost_
  
  X Pro Cameras | + $3

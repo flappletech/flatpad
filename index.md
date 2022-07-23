@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Flatpad
 
-You can use the [editor on GitHub](https://github.com/flappletech/fpad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<hr>
 
-### Markdown
+## Flatpad Air
+### Low Cost, High Power
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Flatpad Air is a good choice for anyone who wants to spend less money, while getting a good deal.
+Starts at $2.
 
-```markdown
-Syntax highlighted code block
+Purchase options below
 
-# Header 1
-## Header 2
-### Header 3
+  
 
-- Bulleted
-- List
+**Wallpaper**
+- Draw your own | _No Extra Cost_
+- Color Stripes | + 25¢
+- Solid Color | + $1
 
-1. Numbered
-2. List
+  
 
-**Bold** and _Italic_ and `Code` text
+**Screen Size**
+- 7 inch | _No Extra Cost_
+- 10 inch | + $1
+- 14 inch | + $3
 
-[Link](url) and ![Image](src)
-```
+  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Camera Setup**
+- Normal Camera |  _No Extra Cost_
+- Camera Plus | + 50¢
+- Pro Camera  + $1
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flappletech/fpad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
